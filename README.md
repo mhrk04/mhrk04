@@ -4,7 +4,7 @@
 - 📫 Reach me via ig @mhaziqrk
 
 
- [![image alt text](https://assets.bestnine.net/assets/images/instagram_follow_button-575d6dbf.png)](ig.mhaziqrk.uk)
+ [![image alt text](https://ringtoone.com/wp-content/uploads/2022/01/insta.png)](http://ig.mhaziqrk.uk)
 
 <!---
 mhrk04/mhrk04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
