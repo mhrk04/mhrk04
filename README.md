@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhrk04
 - 👀 I’m interested in everything about tech
-- 🌱 I’m currently learning full stack web development, python ...
+- 🌱 I’m currently learning C++ ...
 - 📫 Reach me via ig @mhaziqrk
 
 <a href="http://ig.mhaziqrk.uk"><img src="https://ringtoone.com/wp-content/uploads/2022/01/insta.png" alt="IG logo" width="20%" />
